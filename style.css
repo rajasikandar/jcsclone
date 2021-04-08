@@ -662,6 +662,8 @@ a.article:hover {
         font-size:20px;
         width:100%;
     }
+	  .card{
+	  width:100%;}
     #maintwo{
         width:100%;
         text-align:center;
